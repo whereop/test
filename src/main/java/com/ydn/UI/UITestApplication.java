@@ -18,7 +18,7 @@ public class UITestApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(UITestApplication.class, args);
-
+        System.out.println("nihao");
     }
 
 }
